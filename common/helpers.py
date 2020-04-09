@@ -182,5 +182,3 @@ def writeout_text_data(incoming_data):
         out_file.write(incoming_data)
 
     return file_name
-
-def class_info():
